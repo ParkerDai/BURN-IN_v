@@ -1,0 +1,8 @@
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\Interop.ComctlLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\Interop.MSWinsockLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\AxInterop.ComctlLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\GW21W_Loop.vbproj.ResolveComReference.cache
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\COM_Loop.FrmMain.resources
+D:\公司產品\ATC\產測程式\Burn-in\Old\burn_in\COM_LOOPBACK\修正1.7BUG\COM_Loop.NET\obj\Debug\GW21W_Loop.vbproj.GenerateResource.Cache

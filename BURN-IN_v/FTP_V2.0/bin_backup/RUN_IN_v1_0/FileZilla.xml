@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FileZilla>
+<Settings>
+<Item name="Last Server Host" type="string">10.0.85.86</Item>
+<Item name="Last Server Port" type="numeric">21</Item>
+<Item name="Last Server User" type="string">admin</Item>
+<Item name="Last Server account" type="string"></Item>
+<Item name="Last Server dont save pass" type="numeric">0</Item>
+<Item name="Last Server UTF8" type="numeric">0</Item>
+<Item name="Last server name" type="string"></Item>
+<Item name="Last Server Pass" type="string"></Item>
+<Item name="Last Server Firewall Bypass" type="numeric">0</Item>
+<Item name="Last Server Path" type="string">4096 0 5 jffs2</Item>
+<Item name="Last Server Type" type="numeric">4096</Item>
+<Item name="Last Server transfer mode" type="numeric">0</Item>
+<Item name="Last Server Timezone" type="numeric">0</Item>
+<Item name="Default Folder" type="string">C:\Documents and Settings\programmer\桌面\Do it\SExx(438)_runin 20071018\RUN_IN_v1_0\</Item>
+</Settings>
+<RecentServers>
+<Server Host="10.0.50.100" Port="21" User="admin" Pass="" Account="" FirewallBypass="0" DontRememberPass="0" ServerType="4096" Path="" PasvMode="0" UTF8="0" TimeZoneOffset="0"/>
+<Server Host="10.0.85.86" Port="21" User="admin" Pass="" Account="" FirewallBypass="0" DontRememberPass="0" ServerType="4096" Path="" PasvMode="0" UTF8="0" TimeZoneOffset="0"/>
+</RecentServers>
+<TransferQueue/>
+</FileZilla>

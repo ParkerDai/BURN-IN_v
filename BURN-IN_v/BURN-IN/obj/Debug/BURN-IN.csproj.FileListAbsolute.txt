@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\bin\Debug\BURN-IN.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\bin\Debug\BURN-IN.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\BURN-IN.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\BURN-IN.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\UDPClientBroadcast\obj\Debug\BURN-IN.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\bin\Debug\BURN-IN.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\bin\Debug\BURN-IN.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\BURN_IN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\BURN-IN.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\BURN-IN.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\BURN-IN\obj\Debug\BURN-IN.pdb

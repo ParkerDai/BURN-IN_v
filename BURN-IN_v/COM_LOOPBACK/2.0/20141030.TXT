@@ -1,0 +1,8 @@
+10/30 10:27:51  IP : 10.0.50.100   COM 1 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:52  IP : 10.0.50.100   COM 4 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:53  IP : 10.0.50.100   COM 3 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:55  IP : 10.0.50.100   COM 2 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:55  IP : 10.0.50.100   COM 5 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:55  IP : 10.0.50.100   COM 6 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:55  IP : 10.0.50.100   COM 7 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0
+10/30 10:27:55  IP : 10.0.50.100   COM 8 Winsock Error: (10061) Connection is forcefully rejected Send=0, Send OK=0, Receive=0, Total Loss=0

@@ -1,0 +1,1 @@
+composer32 romfs.img romfs.dld -r 16 4 112 32

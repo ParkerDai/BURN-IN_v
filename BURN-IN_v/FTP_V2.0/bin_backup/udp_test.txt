@@ -1,0 +1,9 @@
+To Ask BOX to enter Run-in mode, broadcast
+command1
+\02\01\10\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\01\00\03
+ 
+To Ask BOX to enter normal mode, broadcast
+connamd3
+\02\03\10\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\03
+
+ 

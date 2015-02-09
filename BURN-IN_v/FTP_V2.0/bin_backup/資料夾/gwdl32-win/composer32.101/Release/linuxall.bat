@@ -1,0 +1,1 @@
+composer32 linux.bin romfs.img linuxall.dld -l -r 16 4 112 32

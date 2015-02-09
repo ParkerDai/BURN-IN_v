@@ -1,0 +1,1 @@
+composer32 bloader.bin bloader.dld -b 0 2 0 0

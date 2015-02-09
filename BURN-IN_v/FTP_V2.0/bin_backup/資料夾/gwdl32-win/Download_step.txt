@@ -1,0 +1,5 @@
+
+Download GW2208s-mega Kernel & AP version
+
+Step1: Download bootloader.dld
+Step2: Download linuxall-v1.4.dld

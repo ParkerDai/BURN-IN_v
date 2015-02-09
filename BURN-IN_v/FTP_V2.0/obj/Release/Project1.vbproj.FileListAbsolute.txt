@@ -1,0 +1,183 @@
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\burnin_v1_2.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\burnin_v1_2.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\burnin_v1_2.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\burnin_v1_2.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\burnin_v1_2.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\burnin_v1_2.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Release\burnin_v1_2.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\burnin_v1_2.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.1\Project1.NET1\obj\Release\burnin_v1_2.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\burnin_v1_2.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp_burn_v1.2\Project1.NET1\obj\Release\burnin_v1_2.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\burnin_v1_5.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\bin\burnin_v1_5.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\burnin_v1_5.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\burnin_v1_5.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\burnin_v1_5.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\burnin_v1_5.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\ftp7816_cpu_burnin\2\Project1.NET1\obj\Release\burnin_v1_5.xml
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\burnin_v1_5.exe
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\burnin_v1_5.xml
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\burnin_v1_5.exe
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\burnin_v1_5.xml
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\burnin_v1_5.frmtcp.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\burnin_v1_5.frmFTP.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\burnin_v1_5.frmModel.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\burnin_v1_6.exe
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\burnin_v1_6.xml
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\burnin_v1_6.frmtcp.resources
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\burnin_v1_6.frmFTP.resources
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\burnin_v1_6.frmModel.resources
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\burnin_v1_6.exe
+C:\Documents and Settings\Simon You\桌面\FTP_V1.6\Project1.NET1\obj\Release\burnin_v1_6.xml
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\burnin_v1_7.exe
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\burnin_v1_7.xml
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\burnin_v1_7.frmtcp.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\burnin_v1_7.frmFTP.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\burnin_v1_7.frmModel.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\burnin_v1_7.exe
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.7\Project1.NET1\obj\Release\burnin_v1_7.xml
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\frmftp.exe
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\bin\frmftp.xml
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmtcp.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmFTP.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmModel.resources
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\frmftp.exe
+D:\Running Test\0927\Running\lan_腮選\FTP_V1.8\Project1.NET1\obj\Release\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_RUN\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_CAN_SSTab\FTP_V1.8\Project1.NET1\obj\Release\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.8\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Release\Project1.vbproj.GenerateResource.Cache

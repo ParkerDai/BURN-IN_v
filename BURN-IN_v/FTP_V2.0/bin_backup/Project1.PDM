@@ -1,0 +1,348 @@
+[Root]
+Most Recent Package=SExx(438)_Runin程式_V1_5
+
+
+[Package|21s_mega Burn-in|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\setup
+
+[Package|21s_mega Burn-in|Configure DAO ISAMs]
+Applicable=No
+
+[Package|21s_mega Burn-in|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|21s_mega Burn-in|Files Found]
+
+[Package|21s_mega Burn-in|Files Released]
+
+[Package|21s_mega Burn-in|Missing Dependency Information]
+
+[Package|21s_mega Burn-in|Out-of-Date Dependency Information]
+
+[Package|21s_mega Burn-in|Files Added]
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\udp_test.txt=
+
+[Package|21s_mega Burn-in|Files Removed]
+
+[Package|21s_mega Burn-in|Files In Project]
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\21s_BurnIn_v10.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6CHT.DLL=Yes
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\WINSKCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\udp_test.txt=Yes
+
+[Package|21s_mega Burn-in|Configure Registry Files]
+Applicable=No
+
+[Package|21s_mega Burn-in|Configure Remote Servers]
+Applicable=No
+
+[Package|21s_mega Burn-in|Install Locations]
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\21s_BurnIn_v10.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6CHT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\udp_test.txt=$(AppPath)
+
+[Package|21s_mega Burn-in|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\21s_BurnIn_v10.exe=No
+C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\udp_test.txt=No
+
+[Package|21s_mega Burn-in|Distribution]
+Type=single
+Size=
+Title=21s_mega Burn-in
+
+[Package|21s_mega Burn-in|IconGroups]
+Group0=21s_mega Burn-in
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|21s_mega Burn-in|21s_mega Burn-in]
+Icon1=21s_BurnIn_v10.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|21s_mega Burn-in|Package]
+PackageFolder=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\setup
+ProjectFolder=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171
+ServerSideCab=
+File1=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\setup\setup.exe
+File2=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\setup\Setup.Lst
+File3=C:\Documents and Settings\we1\桌面\ATOP test programming\Burn-in\21s_mega_runin 07171\setup\21s_BurnIn_v10.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|GW21S MEGA_Runin程式_V1_5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup
+
+[Package|GW21S MEGA_Runin程式_V1_5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|GW21S MEGA_Runin程式_V1_5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|GW21S MEGA_Runin程式_V1_5|Files Found]
+
+[Package|GW21S MEGA_Runin程式_V1_5|Files Released]
+
+[Package|GW21S MEGA_Runin程式_V1_5|Missing Dependency Information]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=
+
+[Package|GW21S MEGA_Runin程式_V1_5|Out-of-Date Dependency Information]
+
+[Package|GW21S MEGA_Runin程式_V1_5|Files Added]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=
+
+[Package|GW21S MEGA_Runin程式_V1_5|Files Removed]
+
+[Package|GW21S MEGA_Runin程式_V1_5|Files In Project]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Vb6cht.dll=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\INETCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=Yes
+
+[Package|GW21S MEGA_Runin程式_V1_5|Configure Registry Files]
+Applicable=No
+
+[Package|GW21S MEGA_Runin程式_V1_5|Configure Remote Servers]
+Applicable=No
+
+[Package|GW21S MEGA_Runin程式_V1_5|Install Locations]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Vb6cht.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=$(AppPath)
+
+[Package|GW21S MEGA_Runin程式_V1_5|Configure Shared Files]
+Applicable=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=No
+
+[Package|GW21S MEGA_Runin程式_V1_5|Distribution]
+Type=single
+Size=
+Title=GW21S MEGA_Runin程式_V1_5
+
+[Package|GW21S MEGA_Runin程式_V1_5|IconGroups]
+Group0=Atop
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|GW21S MEGA_Runin程式_V1_5|Atop]
+Icon1=RUN_IN_v1_5.exe
+Title1=GW21S MEGA_Runin程式_V1_5
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|GW21S MEGA_Runin程式_V1_5|Package]
+PackageFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup
+ProjectFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5
+ServerSideCab=
+File1=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\setup.exe
+File2=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\Setup.Lst
+File3=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\RUN_IN_v1_5.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SExx(438)_Runin程式_V1_5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup
+
+[Package|SExx(438)_Runin程式_V1_5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SExx(438)_Runin程式_V1_5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SExx(438)_Runin程式_V1_5|Files Found]
+
+[Package|SExx(438)_Runin程式_V1_5|Files Released]
+
+[Package|SExx(438)_Runin程式_V1_5|Missing Dependency Information]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=
+
+[Package|SExx(438)_Runin程式_V1_5|Out-of-Date Dependency Information]
+
+[Package|SExx(438)_Runin程式_V1_5|Files Added]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\bat\gwdl32.exe=
+
+[Package|SExx(438)_Runin程式_V1_5|Files Removed]
+
+[Package|SExx(438)_Runin程式_V1_5|Files In Project]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Vb6cht.dll=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\INETCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\bat\gwdl32.exe=Yes
+
+[Package|SExx(438)_Runin程式_V1_5|Configure Registry Files]
+Applicable=No
+
+[Package|SExx(438)_Runin程式_V1_5|Configure Remote Servers]
+Applicable=No
+
+[Package|SExx(438)_Runin程式_V1_5|Install Locations]
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Vb6cht.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=$(AppPath)
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\bat\gwdl32.exe=$(AppPath)
+
+[Package|SExx(438)_Runin程式_V1_5|Configure Shared Files]
+Applicable=Yes
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\RUN_IN_v1_5.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\udp_test.txt=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\GW21S_MEGA_RUNIN_v1.3.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\LoopCom1_Com8.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FileZilla.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\FzSFtp.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\FileZilla\uninstall.exe=No
+D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\bat\gwdl32.exe=No
+
+[Package|SExx(438)_Runin程式_V1_5|Distribution]
+Type=single
+Size=
+Title=SExx(438)_Runin程式_V1_5
+
+[Package|SExx(438)_Runin程式_V1_5|IconGroups]
+Group0=Atop
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|SExx(438)_Runin程式_V1_5|Atop]
+Icon1=RUN_IN_v1_5.exe
+Title1=SExx(438)_Runin程式_V1_5
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SExx(438)_Runin程式_V1_5|Package]
+PackageFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup
+ProjectFolder=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5
+ServerSideCab=
+File1=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\setup.exe
+File2=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\Setup.Lst
+File3=D:\ATOP\ATOP TP (never backup)\SExx(438)_runin_v1.5\Setup\RUN_IN_v1_5.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

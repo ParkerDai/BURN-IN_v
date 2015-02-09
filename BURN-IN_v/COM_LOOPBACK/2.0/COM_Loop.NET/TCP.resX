@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="FrmMain.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAQeQAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8AAP8AAAD//wD/AAAA/wD/AP//
+        AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDw8PDwAAAAAAAAAAAAAAAAAAAAAH
+        AAAAAAAAAAAAAAiIiIiIgHAAAAAAAAAAAAAAiIiIiIgAAAAAAAAAAAAAAAiIiIiIgAAAAADAAAAAAAAA
+        AAAAAAAAAADMAAAAAAAAAAAAiHAAAAAMwAAAAAAAAAAAAAiHAAAAAMwAAAAAAAAAAAAAiHAAAAzAAAAA
+        AAAAAAAAAAiHAADMAAAAAAAAAAAAAAAAiHAAAAAAAAAAAAAADMAAAAiHAAAAAA/wAAAADMzMzAAAiHAA
+        AP///wAAAAAADMwAAAiHD/////8AAAAAAAAAAAAAiA//////8AAAAAAAAAAA/wD///////AAAAAAAAAA
+        ////////////AAAAAAAAAA/////////wDwAAAAAAAAAP////////8A/wAAAAAAAAAP//////////AAAA
+        AAAAAAD////////wAAAAAAAAAAAAD/////8AAAAAAAAAAAAAMA///wAAiHAAAAAAAAADAwMA8AAAAAiH
+        AAAAAAAwMDAAAAAAAAAAiHAAAAMDAwMAAAAAAAAAAAiHAAAAMDAAAAAAAAAAAAAAiHAAAAMAAAAAAAAA
+        AAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AB///wAP//8AB///AAP//4AD
+        ///AA/3/4APz//4P5///B/P//4Pn///Bz///4P+P+fB8D+A4IAf+PAAH//wAA//gAAP/4AAB//AAAf/w
+        AAD/+AAA//gAA//wAB//gAAP/AAPB+ACf4PAD//BwD//4OD///Hj///7/////w==
+</value>
+  </data>
+  <data name="ToolTip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 17</value>
+  </data>
+  <data name="tmr_winsock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>105, 17</value>
+  </data>
+  <data name="tmr_subtract.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 17</value>
+  </data>
+  <data name="_TmrSend_7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 17</value>
+  </data>
+  <data name="_TmrSend_6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>441, 17</value>
+  </data>
+  <data name="_TmrSend_5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>545, 17</value>
+  </data>
+  <data name="_TmrSend_4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>649, 17</value>
+  </data>
+  <data name="_TmrSend_3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>753, 17</value>
+  </data>
+  <data name="Timer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>857, 17</value>
+  </data>
+  <data name="_TmrSend_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>929, 17</value>
+  </data>
+  <data name="_TmrSend_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1033, 17</value>
+  </data>
+  <data name="TmrRate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1137, 17</value>
+  </data>
+  <data name="Timer2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1217, 17</value>
+  </data>
+  <data name="_TmrSend_0.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1289, 17</value>
+  </data>
+  <data name="_Winsock1_3.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_2.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_0.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_1.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_4.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_5.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_6.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="_Winsock1_7.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQAAAAIB
+        AAAAAQAAAAAkAAAAMmM0OWY4MDAtYzJkZC0xMWNmLTlhZDYtMDA4MGM3ZTdiNzhkAAAAACgAAAAhQzQS
+        CAAAAOUCAADlAgAAktiNJAAABgAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <data name="CmdClrCnt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1393, 17</value>
+  </data>
+  <data name="CmdSendBeg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1489, 17</value>
+  </data>
+  <data name="LabLoop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1593, 17</value>
+  </data>
+  <data name="LabLoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1673, 17</value>
+  </data>
+  <data name="LabRcv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1753, 17</value>
+  </data>
+  <data name="LabSend.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1825, 17</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1905, 17</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1977, 17</value>
+  </data>
+  <data name="Label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2049, 17</value>
+  </data>
+  <data name="Label22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2129, 17</value>
+  </data>
+  <data name="Label24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2209, 17</value>
+  </data>
+  <data name="OptTcpUdp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2289, 17</value>
+  </data>
+  <data name="OptTestMode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2385, 17</value>
+  </data>
+  <data name="TmrSend.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2497, 17</value>
+  </data>
+  <data name="TxtCntLoss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2577, 17</value>
+  </data>
+  <data name="TxtCntRcv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2681, 17</value>
+  </data>
+  <data name="TxtCntSend.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2777, 17</value>
+  </data>
+  <data name="TxtCntSendTal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2881, 17</value>
+  </data>
+  <data name="TxtRcvPket.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3009, 17</value>
+  </data>
+  <data name="TxtSendData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3113, 17</value>
+  </data>
+  <data name="TxtSendDataLen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3225, 17</value>
+  </data>
+  <data name="TxtSendIntval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3361, 17</value>
+  </data>
+  <data name="TxtSendPket.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3489, 17</value>
+  </data>
+  <data name="TxtSendPketTal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3601, 17</value>
+  </data>
+  <data name="Winsock1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3737, 17</value>
+  </data>
+  <data name="cmdCnect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3825, 17</value>
+  </data>
+  <data name="txtLocalPort.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3913, 17</value>
+  </data>
+  <data name="txtPort.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4033, 17</value>
+  </data>
+  <data name="txtip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4113, 17</value>
+  </data>
+  <data name="MainMenu1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4177, 17</value>
+  </data>
+</root>

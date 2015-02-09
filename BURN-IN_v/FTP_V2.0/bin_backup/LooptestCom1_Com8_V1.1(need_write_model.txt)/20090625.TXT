@@ -1,0 +1,32 @@
+06/25 13:21:02  Clear Counter 1:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:02  Clear Counter 2:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:03  Clear Counter 3:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:03  Clear Counter 4:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:04  Clear Counter 5:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:05  Clear Counter 6:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:05  Clear Counter 7:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:06  Clear Counter 8:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:21:09  COM 1 Close OK!
+06/25 13:21:10  COM 2 Close OK!
+06/25 13:21:11  COM 3 Close OK!
+06/25 13:21:11  COM 4 Close OK!
+06/25 13:21:12  COM 5 Close OK!
+06/25 13:21:12  COM 6 Close OK!
+06/25 13:21:13  COM 7 Close OK!
+06/25 13:21:14  COM 8 Close OK!
+06/25 13:25:13  Clear Counter 1:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:13  Clear Counter 2:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:14  Clear Counter 3:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:15  Clear Counter 4:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:15  Clear Counter 5:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:16  Clear Counter 6:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:16  Clear Counter 7:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:17  Clear Counter 8:  Send=0, Send OK=0, Receive=0, Total Loss=0
+06/25 13:25:19  COM 1 Close OK!
+06/25 13:25:20  COM 2 Close OK!
+06/25 13:25:21  COM 3 Close OK!
+06/25 13:25:21  COM 4 Close OK!
+06/25 13:25:22  COM 5 Close OK!
+06/25 13:25:23  COM 6 Close OK!
+06/25 13:25:23  COM 7 Close OK!
+06/25 13:25:24  COM 8 Close OK!

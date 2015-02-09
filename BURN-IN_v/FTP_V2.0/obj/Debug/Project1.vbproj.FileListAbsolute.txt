@@ -1,0 +1,344 @@
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\已完成\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.exe
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.xml
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.pdb
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.exe
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.pdb
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Project1.xml
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+C:\Users\simon\Desktop\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for 5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\CPU5200_ORT_TEST_V1.1(for_5516)\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Project1.exe
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Project1.pdb
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Project1.xml
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\Interop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.frmtcp.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.frmFTP.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.frmModel.resources
+D:\Terminal_Server_ORT_TEST_V1_0\Project1.NET1\atop_burn-in_program\temp\POWERPC\elle\綜合\ftptest\新資料夾\ftp\新資料夾\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\burnin_v1_5.exe
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\burnin_v1_5.pdb
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\burnin_v1_5.xml
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.frmtcp.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.frmFTP.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.frmModel.resources
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.exe
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.xml
+C:\Documents and Settings\Simon You\桌面\2\Project1.NET1\obj\Debug\burnin_v1_5.pdb
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\作業中\Burn-in\burn_in_註解版\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.exe
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\Interop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\Interop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.exe
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.xml
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\Project1.NET1\obj\Debug\frmftp.pdb
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\Interop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\Interop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.exe
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.xml
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.pdb
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\frmftp.exe
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\frmftp.pdb
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\frmftp.xml
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\Interop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\Interop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\AxInterop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\bin\AxInterop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\ResolveAssemblyReference.cache
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.frmtcp.resources
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.frmFTP.resources
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\frmftp.frmModel.resources
+D:\ATC_Burn-in-Test-Main\FTP_V1.9\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\frmftp.exe
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\frmftp.pdb
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\frmftp.xml
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\Interop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\Interop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\AxInterop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\bin\AxInterop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\ResolveAssemblyReference.cache
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\Interop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\Interop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.frmtcp.resources
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.frmFTP.resources
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.frmModel.resources
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.exe
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.xml
+D:\ATC_Burn-in-Test-Main(SE190x)\FTP_V1.9\obj\Debug\frmftp.pdb
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\Interop.InetCtlsObjects.dll
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\Interop.MSWinsockLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\frmftp.exe
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\frmftp.xml
+D:\公司產品\ATC\產測程式\Burn-in\New_autorun\ATC_Burn-in-Test-Main\FTP_V2.0\obj\Debug\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\frmftp.exe
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\frmftp.pdb
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\frmftp.xml
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\bin\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.frmtcp.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.frmFTP.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\frmftp.frmModel.resources
+C:\Documents and Settings\Administrator\桌面\BURN-IN_v\FTP_V2.0\obj\Debug\Project1.vbproj.GenerateResource.Cache

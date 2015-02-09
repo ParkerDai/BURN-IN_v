@@ -1,0 +1,1 @@
+composer32 bloader.bin bloader.rom -a 0 0 0 0

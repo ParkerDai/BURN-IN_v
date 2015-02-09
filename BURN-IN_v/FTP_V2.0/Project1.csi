@@ -1,0 +1,10 @@
+[Options]
+1=#P0#=1:2:1:1	.
+[HIGHLIGHT]
+1=#P0#=ce	#P1#=Project1|frmFTP.vb	#P2#=3	#P3#=793542673_Project1_frmFTP.vb_H66726D4654505F4C6F61645F66726D6674702E66726D4654502E66726D4654505F4C6F61645F4D3A66726D6674702E66726D4654502E66726D4654505F4C6F61642853797374656D2E4F626A6563742C53797374656D2E4576656E744172677329	#P4#=20130913164848	#P5#=793542673_Project1_frmFTP.vb_H66726D4654505F66726D6674702E66726D465450	.
+[Version]
+1=#P0#=2008	.
+[History]
+1=#P0#=ce	#P1#=frmFTP_Load	#P2#=frmFTP|frmFTP_Load	#P3#=M:frmftp.frmFTP.frmFTP_Load(System.Object,System.EventArgs)	#P4#=	#P5#=Project1|frmFTP.vb	#P6#=96	#P7#=20130913164848	#P8#=False	#P9#=frmFTP_Load   [frmFTP.vb]	#P10#=16	.
+2=#P0#=ce	#P1#=cmdDownload_Click	#P2#=frmFTP|cmdDownload_Click	#P3#=M:frmftp.frmFTP.cmdDownload_Click(System.Object,System.EventArgs)	#P4#=	#P5#=Project1|frmFTP.vb	#P6#=96	#P7#=20130913164159	#P8#=False	#P9#=cmdDownload_Click   [frmFTP.vb]	#P10#=43	.
+3=#P0#=ce	#P1#=cmdConnect_Click	#P2#=frmFTP|cmdConnect_Click	#P3#=M:frmftp.frmFTP.cmdConnect_Click(System.Object,System.EventArgs)	#P4#=	#P5#=Project1|frmFTP.vb	#P6#=96	#P7#=20130826165418	#P8#=False	#P9#=cmdConnect_Click   [frmFTP.vb]	#P10#=70	.
